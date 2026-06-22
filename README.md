@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tacto de seda, piel que enciende
+> Tu cuerpo llama, nadie lo entiende
+> Noche de oro, la luna desciende
+> Tus labios piden lo que no se vende
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
