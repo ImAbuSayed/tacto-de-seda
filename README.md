@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tacto-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tacto de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tacto-de-seda/) |
+| **Get License** | [Get License For Tacto de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tacto-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `283ea1ff99b03e56a159c570f510d21ef129a56ee0c124f1ef63084e6c0dc017` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
